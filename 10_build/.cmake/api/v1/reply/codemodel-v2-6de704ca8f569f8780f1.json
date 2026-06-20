@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "02_libs",
+					"jsonFile" : "directory-02_libs-Debug-e3f17649175c29917de4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "02_libs",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "06_startup",
+					"jsonFile" : "directory-06_startup-Debug-a9418d99da651a17e23b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "06_startup",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "09_config",
+					"jsonFile" : "directory-09_config-Debug-b516cf7ef17cec8d16cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "09_config"
+				},
+				{
+					"build" : "04_bsp",
+					"jsonFile" : "directory-04_bsp-Debug-27d04948062149a683cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "04_bsp",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "03_hal",
+					"jsonFile" : "directory-03_hal-Debug-bc21dcccec10f5b62682.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "03_hal"
+				},
+				{
+					"build" : "01_app",
+					"jsonFile" : "directory-01_app-Debug-187c2af3183518abc7a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "01_app",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "STM32F103C8T6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "STM32F103.elf::@b8f177ffcab6bb705bfd",
+					"jsonFile" : "target-STM32F103.elf-Debug-84ec6a268d1fa16a53bf.json",
+					"name" : "STM32F103.elf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "bsp::@0bc28816a48040ce9ca4",
+					"jsonFile" : "target-bsp-Debug-f4b64edfabfd8657e8a2.json",
+					"name" : "bsp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "flash::@b8f177ffcab6bb705bfd",
+					"jsonFile" : "target-flash-Debug-95f96c05695c36c15b6f.json",
+					"name" : "flash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "startup::@bea566ddfcb7e00a067c",
+					"jsonFile" : "target-startup-Debug-6703dafcbc78333539b8.json",
+					"name" : "startup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stdperiph::@77c7e2fc0b86508f258a",
+					"jsonFile" : "target-stdperiph-Debug-6a953fbe22ee79cfe213.json",
+					"name" : "stdperiph",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
+		"source" : "C:/Users/Administrator/Desktop/STM32F103STD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

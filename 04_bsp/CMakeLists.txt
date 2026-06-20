@@ -1,0 +1,5 @@
+file(GLOB BSP_SRCS "src/*.c")
+add_library(bsp STATIC ${BSP_SRCS})
+target_include_directories(bsp PUBLIC inc)
+target_link_libraries(bsp PUBLIC stdperiph board_config)
+target_compile_options(bsp PRIVATE -mcpu=cortex-m3 -mthumb)

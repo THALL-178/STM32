@@ -1,0 +1,40 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Firmware",
+            "type": "shell",
+            "command": "cmake",
+            "args": [
+                "--build",
+                "10_build"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Flash MCU",
+            "type": "shell",
+            "command": "cmake",
+            "args": [
+                "--build",
+                "10_build",
+                "--target",
+                "flash"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Clean Build",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-Command",
+                "Remove-Item -Recurse -Force 10_build"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

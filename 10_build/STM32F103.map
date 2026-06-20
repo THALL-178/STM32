@@ -1,0 +1,374 @@
+Archive member included to satisfy reference by file (symbol)
+
+04_bsp/libbsp.a(bsp_led.c.obj)
+                              01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj (LED_Init)
+02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+                              04_bsp/libbsp.a(bsp_led.c.obj) (GPIO_Init)
+02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+                              04_bsp/libbsp.a(bsp_led.c.obj) (RCC_APB2PeriphClockCmd)
+02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                              06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj (SystemInit)
+
+There are no discarded input sections
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00040000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+LOAD 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+LOAD 04_bsp/libbsp.a
+LOAD 02_libs/libstdperiph.a
+                0x20005000                        _estack = 0x20005000
+                0x00000000                        _Min_Heap_Size = 0x0
+                0x00000200                        _Min_Stack_Size = 0x200
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                        . = ALIGN (0x4)
+
+.text           0x0800010c     0x1120
+                0x0800010c                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x14 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .text          0x08000120        0xe 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+                0x08000120                main
+ *fill*         0x0800012e        0x2 
+ .text          0x08000130       0x84 04_bsp/libbsp.a(bsp_led.c.obj)
+                0x08000130                LED_Init
+                0x08000164                LED_On
+                0x08000178                LED_Off
+                0x0800018c                LED_Toggle
+ .text          0x080001b4      0x5d8 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+                0x080001b4                GPIO_DeInit
+                0x08000298                GPIO_AFIODeInit
+                0x080002b0                GPIO_Init
+                0x08000428                GPIO_StructInit
+                0x0800044e                GPIO_ReadInputDataBit
+                0x08000480                GPIO_ReadInputData
+                0x08000498                GPIO_ReadOutputDataBit
+                0x080004ca                GPIO_ReadOutputData
+                0x080004e2                GPIO_SetBits
+                0x080004fe                GPIO_ResetBits
+                0x0800051a                GPIO_WriteBit
+                0x08000548                GPIO_Write
+                0x08000564                GPIO_PinLockConfig
+                0x080005a6                GPIO_EventOutputConfig
+                0x080005f0                GPIO_EventOutputCmd
+                0x08000610                GPIO_PinRemapConfig
+                0x080006f0                GPIO_EXTILineConfig
+                0x08000770                GPIO_ETH_MediaInterfaceConfig
+ .text          0x0800078c      0x7dc 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+                0x0800078c                RCC_DeInit
+                0x080007e8                RCC_HSEConfig
+                0x08000844                RCC_WaitForHSEStartUp
+                0x08000894                RCC_AdjustHSICalibrationValue
+                0x080008d0                RCC_HSICmd
+                0x080008f0                RCC_PLLConfig
+                0x0800092c                RCC_PLLCmd
+                0x0800094c                RCC_SYSCLKConfig
+                0x08000984                RCC_GetSYSCLKSource
+                0x080009a0                RCC_HCLKConfig
+                0x080009d8                RCC_PCLK1Config
+                0x08000a10                RCC_PCLK2Config
+                0x08000a48                RCC_ITConfig
+                0x08000a94                RCC_USBCLKConfig
+                0x08000ab0                RCC_ADCCLKConfig
+                0x08000ae8                RCC_LSEConfig
+                0x08000b28                RCC_LSICmd
+                0x08000b48                RCC_RTCCLKConfig
+                0x08000b6c                RCC_RTCCLKCmd
+                0x08000b8c                RCC_GetClocksFreq
+                0x08000cf8                RCC_AHBPeriphClockCmd
+                0x08000d34                RCC_APB2PeriphClockCmd
+                0x08000d70                RCC_APB1PeriphClockCmd
+                0x08000dac                RCC_APB2PeriphResetCmd
+                0x08000de8                RCC_APB1PeriphResetCmd
+                0x08000e24                RCC_BackupResetCmd
+                0x08000e44                RCC_ClockSecuritySystemCmd
+                0x08000e64                RCC_MCOConfig
+                0x08000e84                RCC_GetFlagStatus
+                0x08000ef8                RCC_ClearFlag
+                0x08000f14                RCC_GetITStatus
+                0x08000f48                RCC_ClearITPendingBit
+ .text          0x08000f68      0x258 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                0x08000f68                SystemInit
+                0x08000fd0                SystemCoreClockUpdate
+ *(.text*)
+ .text.Reset_Handler
+                0x080011c0       0x44 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+                0x080011c0                Reset_Handler
+ .text.Default_Handler
+                0x08001204        0x2 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+                0x08001204                EXTI2_IRQHandler
+                0x08001204                DebugMon_Handler
+                0x08001204                TIM1_CC_IRQHandler
+                0x08001204                HardFault_Handler
+                0x08001204                SysTick_Handler
+                0x08001204                PVD_IRQHandler
+                0x08001204                PendSV_Handler
+                0x08001204                NMI_Handler
+                0x08001204                EXTI3_IRQHandler
+                0x08001204                EXTI0_IRQHandler
+                0x08001204                I2C2_EV_IRQHandler
+                0x08001204                UsageFault_Handler
+                0x08001204                ADC1_2_IRQHandler
+                0x08001204                SPI1_IRQHandler
+                0x08001204                TAMPER_IRQHandler
+                0x08001204                DMA1_Channel4_IRQHandler
+                0x08001204                USART3_IRQHandler
+                0x08001204                RTC_IRQHandler
+                0x08001204                DMA1_Channel7_IRQHandler
+                0x08001204                CAN1_RX1_IRQHandler
+                0x08001204                TIM4_IRQHandler
+                0x08001204                I2C1_EV_IRQHandler
+                0x08001204                DMA1_Channel6_IRQHandler
+                0x08001204                TIM3_IRQHandler
+                0x08001204                RCC_IRQHandler
+                0x08001204                TIM1_TRG_COM_IRQHandler
+                0x08001204                DMA1_Channel1_IRQHandler
+                0x08001204                Default_Handler
+                0x08001204                EXTI15_10_IRQHandler
+                0x08001204                EXTI9_5_IRQHandler
+                0x08001204                SPI2_IRQHandler
+                0x08001204                MemManage_Handler
+                0x08001204                SVC_Handler
+                0x08001204                DMA1_Channel5_IRQHandler
+                0x08001204                EXTI4_IRQHandler
+                0x08001204                USB_LP_CAN1_RX0_IRQHandler
+                0x08001204                USB_HP_CAN1_TX_IRQHandler
+                0x08001204                DMA1_Channel3_IRQHandler
+                0x08001204                TIM1_UP_IRQHandler
+                0x08001204                WWDG_IRQHandler
+                0x08001204                TIM2_IRQHandler
+                0x08001204                TIM1_BRK_IRQHandler
+                0x08001204                EXTI1_IRQHandler
+                0x08001204                RTCAlarm_IRQHandler
+                0x08001204                USART2_IRQHandler
+                0x08001204                I2C2_ER_IRQHandler
+                0x08001204                DMA1_Channel2_IRQHandler
+                0x08001204                CAN1_SCE_IRQHandler
+                0x08001204                FLASH_IRQHandler
+                0x08001204                BusFault_Handler
+                0x08001204                USART1_IRQHandler
+                0x08001204                I2C1_ER_IRQHandler
+                0x08001204                USBWakeUp_IRQHandler
+ *(.rodata)
+ *fill*         0x08001206        0x2 
+ .rodata        0x08001208       0x14 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .rodata        0x0800121c       0x10 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                0x0800121c                AHBPrescTable
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x0800122c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800122c        0x0 linker stubs
+ *(.init)
+ *(.fini)
+                0x0800122c                        . = ALIGN (0x4)
+                0x0800122c                        _etext = .
+
+.vfp11_veneer   0x0800122c        0x0
+ .vfp11_veneer  0x0800122c        0x0 linker stubs
+
+.v4_bx          0x0800122c        0x0
+ .v4_bx         0x0800122c        0x0 linker stubs
+
+.iplt           0x0800122c        0x0
+ .iplt          0x0800122c        0x0 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+
+.rel.dyn        0x0800122c        0x0
+ .rel.iplt      0x0800122c        0x0 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800122c        0x0
+                0x0800122c                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800122c                        __exidx_end = .
+
+.ARM.attributes
+                0x0800122c       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0800122c       0x21 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .ARM.attributes
+                0x0800124d       0x2d 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .ARM.attributes
+                0x0800127a       0x2d 04_bsp/libbsp.a(bsp_led.c.obj)
+ .ARM.attributes
+                0x080012a7       0x2d 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .ARM.attributes
+                0x080012d4       0x2d 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .ARM.attributes
+                0x08001301       0x2d 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+
+.preinit_array  0x0800122c        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800122c        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800122c        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0800132e                        _sidata = .
+
+.data           0x20000000        0x4 load address 0x0800132e
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .data          0x20000000        0x0 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .data          0x20000000        0x0 04_bsp/libbsp.a(bsp_led.c.obj)
+ .data          0x20000000        0x0 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .data          0x20000000        0x0 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .data          0x20000000        0x4 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                0x20000000                SystemCoreClock
+ *(.data*)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x08001334
+ .igot.plt      0x20000004        0x0 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+                0x20000004                        . = ALIGN (0x4)
+
+.bss            0x20000004        0x0 load address 0x08001334
+                0x20000004                        _sbss = .
+                0x20000004                        __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000004        0x0 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .bss           0x20000004        0x0 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .bss           0x20000004        0x0 04_bsp/libbsp.a(bsp_led.c.obj)
+ .bss           0x20000004        0x0 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .bss           0x20000004        0x0 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .bss           0x20000004        0x0 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+ *(.bss*)
+ *(COMMON)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _ebss = .
+                0x20000004                        __bss_end__ = _ebss
+                [!provide]                        PROVIDE (end = _ebss)
+                [!provide]                        PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x20000004      0x200 load address 0x08001334
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        . = (. + _Min_Heap_Size)
+                0x20000204                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000004      0x200 
+                0x20000204                        . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(01_app\STM32F103.elf elf32-littlearm)
+LOAD linker stubs
+LOAD E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_line     0x00000000     0x11df
+ .debug_line    0x00000000       0x75 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .debug_line    0x00000075       0xb4 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .debug_line    0x00000129      0x25a 04_bsp/libbsp.a(bsp_led.c.obj)
+ .debug_line    0x00000383      0x52c 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .debug_line    0x000008af      0x616 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .debug_line    0x00000ec5      0x31a 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+
+.debug_line_str
+                0x00000000       0x83
+ .debug_line_str
+                0x00000000       0x83 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+
+.debug_info     0x00000000     0x172a
+ .debug_info    0x00000000       0x30 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .debug_info    0x00000030       0x94 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .debug_info    0x000000c4      0x30f 04_bsp/libbsp.a(bsp_led.c.obj)
+ .debug_info    0x000003d3      0x6db 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .debug_info    0x00000aae      0x859 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .debug_info    0x00001307      0x423 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+
+.debug_abbrev   0x00000000      0x7a5
+ .debug_abbrev  0x00000000       0x24 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .debug_abbrev  0x00000024       0x60 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .debug_abbrev  0x00000084      0x162 04_bsp/libbsp.a(bsp_led.c.obj)
+ .debug_abbrev  0x000001e6      0x21b 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .debug_abbrev  0x00000401      0x1e7 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .debug_abbrev  0x000005e8      0x1bd 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+
+.debug_aranges  0x00000000       0xc8
+ .debug_aranges
+                0x00000000       0x28 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+ .debug_aranges
+                0x00000028       0x20 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .debug_aranges
+                0x00000048       0x20 04_bsp/libbsp.a(bsp_led.c.obj)
+ .debug_aranges
+                0x00000068       0x20 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .debug_aranges
+                0x00000088       0x20 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .debug_aranges
+                0x000000a8       0x20 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+
+.debug_str      0x00000000      0xb79
+ .debug_str     0x00000000      0xb79 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+                                 0x9f (size before relaxing)
+ .debug_str     0x00000b79        0x0 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+                                0x15b (size before relaxing)
+ .debug_str     0x00000b79        0x0 04_bsp/libbsp.a(bsp_led.c.obj)
+                                0x377 (size before relaxing)
+ .debug_str     0x00000b79        0x0 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+                                0x53e (size before relaxing)
+ .debug_str     0x00000b79        0x0 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+                                0x628 (size before relaxing)
+ .debug_str     0x00000b79        0x0 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                                0x2d5 (size before relaxing)
+
+.debug_rnglists
+                0x00000000       0x19
+ .debug_rnglists
+                0x00000000       0x19 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 04_bsp/libbsp.a(bsp_led.c.obj)
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 02_libs/libstdperiph.a(system_stm32f10x.c.obj)
+                                 0x46 (size before relaxing)
+
+.debug_frame    0x00000000      0x910
+ .debug_frame   0x00000000       0x2c 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj
+ .debug_frame   0x0000002c       0x88 04_bsp/libbsp.a(bsp_led.c.obj)
+ .debug_frame   0x000000b4      0x2d0 02_libs/libstdperiph.a(stm32f10x_gpio.c.obj)
+ .debug_frame   0x00000384      0x4f4 02_libs/libstdperiph.a(stm32f10x_rcc.c.obj)
+ .debug_frame   0x00000878       0x98 02_libs/libstdperiph.a(system_stm32f10x.c.obj)

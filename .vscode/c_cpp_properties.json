@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F103",
+            "includePath": [
+                "${workspaceFolder}/01_app",
+                "${workspaceFolder}/02_libs/CMSIS",
+                "${workspaceFolder}/02_libs/STM32F10x_StdPeriph_Driver/inc",
+                "${workspaceFolder}/03_hal/inc",
+                "${workspaceFolder}/04_bsp/inc",
+                "${workspaceFolder}/05_drivers/inc",
+                "${workspaceFolder}/09_config"
+            ],
+            "defines": [
+                "STM32F10X_MD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "compilerPath": "E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}

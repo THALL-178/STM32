@@ -1,0 +1,7 @@
+{
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=arm-none-eabi-gcc.cmake"
+    ],
+    "cmake.generator": "Ninja",
+    "cmake.buildDirectory": "${workspaceFolder}/10_build"
+}
