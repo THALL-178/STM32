@@ -6,5 +6,5 @@ int main(void)
     LED_On();
     while (1);
 
-    //远程测试
+    //远程测试！
 }
