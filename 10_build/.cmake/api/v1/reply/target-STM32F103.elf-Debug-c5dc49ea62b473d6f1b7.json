@@ -147,11 +147,11 @@
 		},
 		{
 			"backtrace" : 7,
-			"id" : "startup::@bea566ddfcb7e00a067c"
+			"id" : "bsp::@0bc28816a48040ce9ca4"
 		},
 		{
 			"backtrace" : 7,
-			"id" : "bsp::@0bc28816a48040ce9ca4"
+			"id" : "startup::@bea566ddfcb7e00a067c"
 		}
 	],
 	"id" : "STM32F103.elf::@b8f177ffcab6bb705bfd",

@@ -85,6 +85,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/misc.c.obj
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -93,6 +95,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -101,6 +105,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -109,6 +115,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -117,6 +125,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -125,6 +135,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -133,6 +145,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -141,6 +155,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -149,6 +165,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -157,6 +175,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -165,6 +185,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -173,6 +195,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -181,6 +205,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -189,6 +215,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -197,6 +225,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -205,6 +235,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -213,6 +245,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -221,6 +255,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -229,6 +265,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -237,6 +275,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -245,6 +285,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -253,6 +295,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -261,6 +305,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/STM32F10x_StdPeriph_Driver/src/stm32f10x_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\STM32F10x_StdPeriph_Driver\src
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 build 02_libs/CMakeFiles/stdperiph.dir/CMSIS/system_stm32f10x.c.obj: C_COMPILER__stdperiph_unscanned_Debug C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS/system_stm32f10x.c || cmake_object_order_depends_target_stdperiph
   DEFINES = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
@@ -269,6 +315,8 @@ build 02_libs/CMakeFiles/stdperiph.dir/CMSIS/system_stm32f10x.c.obj: C_COMPILER_
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   OBJECT_FILE_DIR = 02_libs\CMakeFiles\stdperiph.dir\CMSIS
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 
 # =============================================================================
@@ -283,8 +331,9 @@ build 02_libs/libstdperiph.a: C_STATIC_LIBRARY_LINKER__stdperiph_Debug 02_libs/C
   OBJECT_DIR = 02_libs\CMakeFiles\stdperiph.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = 02_libs\CMakeFiles\stdperiph.dir\stdperiph.pdb
   TARGET_FILE = 02_libs\libstdperiph.a
-  TARGET_PDB = stdperiph.a.dbg
+  TARGET_PDB = 02_libs\libstdperiph.pdb
 
 
 #############################################
@@ -329,6 +378,8 @@ build 06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj: ASM_COMPILER
   FLAGS = -g -mcpu=cortex-m3 -mthumb
   OBJECT_DIR = 06_startup\CMakeFiles\startup.dir
   OBJECT_FILE_DIR = 06_startup\CMakeFiles\startup.dir
+  TARGET_COMPILE_PDB = 06_startup\CMakeFiles\startup.dir\
+  TARGET_PDB = ""
 
 
 
@@ -411,6 +462,8 @@ build 04_bsp/CMakeFiles/bsp.dir/src/bsp_led.c.obj: C_COMPILER__bsp_unscanned_Deb
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config
   OBJECT_DIR = 04_bsp\CMakeFiles\bsp.dir
   OBJECT_FILE_DIR = 04_bsp\CMakeFiles\bsp.dir\src
+  TARGET_COMPILE_PDB = 04_bsp\CMakeFiles\bsp.dir\bsp.pdb
+  TARGET_PDB = 04_bsp\libbsp.pdb
 
 
 # =============================================================================
@@ -425,8 +478,9 @@ build 04_bsp/libbsp.a: C_STATIC_LIBRARY_LINKER__bsp_Debug 04_bsp/CMakeFiles/bsp.
   OBJECT_DIR = 04_bsp\CMakeFiles\bsp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = 04_bsp\CMakeFiles\bsp.dir\bsp.pdb
   TARGET_FILE = 04_bsp\libbsp.a
-  TARGET_PDB = bsp.a.dbg
+  TARGET_PDB = 04_bsp\libbsp.pdb
 
 
 #############################################
@@ -502,6 +556,8 @@ build 01_app/CMakeFiles/STM32F103.elf.dir/main.c.obj: C_COMPILER__STM32F103.2eel
   INCLUDES = -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS
   OBJECT_DIR = 01_app\CMakeFiles\STM32F103.elf.dir
   OBJECT_FILE_DIR = 01_app\CMakeFiles\STM32F103.elf.dir
+  TARGET_COMPILE_PDB = 01_app\CMakeFiles\STM32F103.elf.dir\
+  TARGET_PDB = 01_app\STM32F103.elf.pdb
 
 
 # =============================================================================
@@ -518,8 +574,9 @@ build 01_app/STM32F103.elf: C_EXECUTABLE_LINKER__STM32F103.2eelf_Debug 06_startu
   OBJECT_DIR = 01_app\CMakeFiles\STM32F103.elf.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\Administrator\Desktop\STM32F103STD\10_build\01_app && arm-none-eabi-objcopy -O ihex C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/STM32F103.elf STM32F103.hex && arm-none-eabi-objcopy -O binary C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/STM32F103.elf STM32F103.bin"
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = 01_app\CMakeFiles\STM32F103.elf.dir\
   TARGET_FILE = 01_app\STM32F103.elf
-  TARGET_PDB = STM32F103.elf.dbg
+  TARGET_PDB = 01_app\STM32F103.elf.pdb
 
 
 #############################################
@@ -634,14 +691,14 @@ build 09_config/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Administrator/Desktop/STM32F103STD/01_app/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/03_hal/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/04_bsp/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/06_startup/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/09_config/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/3.31.11/CMakeASMCompiler.cmake CMakeFiles/3.31.11/CMakeCCompiler.cmake CMakeFiles/3.31.11/CMakeSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-ASM.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeASMLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Platform/Generic.cmake
+build build.ninja: RERUN_CMAKE | C$:/Users/Administrator/Desktop/STM32F103STD/01_app/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/03_hal/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/04_bsp/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/06_startup/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/09_config/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/3.31.11/CMakeASMCompiler.cmake CMakeFiles/3.31.11/CMakeCCompiler.cmake CMakeFiles/3.31.11/CMakeSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMCompiler.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCCompiler.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCCompilerABI.c E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCompilerIdDetection.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineASMCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerSupport.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeFindBinUtils.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeNinjaFindMake.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseImplicitIncludeInfo.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseImplicitLinkInfo.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseLibraryArchitecture.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystem.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestASMCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestCompilerCommon.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ADSP-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ARMCC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ARMClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/AppleClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Borland-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Bruce-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompilerInternal.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Compaq-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Cray-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CrayClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Embarcadero-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Fujitsu-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GHS-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-ASM.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-FindBinUtils.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/HP-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IAR-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Intel-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/LCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/NVHPC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/NVIDIA-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/OrangeC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/PGI-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/PathScale-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SCO-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SDCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SunPro-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TI-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TIClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Tasking-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Watcom-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/XL-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/XLClang-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/zOS-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeASMLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeInspectASMLinker.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeInspectCLinker.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/FeatureTesting.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Platform/Generic.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Administrator/Desktop/STM32F103STD/01_app/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/03_hal/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/04_bsp/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/06_startup/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/09_config/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/3.31.11/CMakeASMCompiler.cmake CMakeFiles/3.31.11/CMakeCCompiler.cmake CMakeFiles/3.31.11/CMakeSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-ASM.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeASMLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Platform/Generic.cmake: phony
+build C$:/Users/Administrator/Desktop/STM32F103STD/01_app/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/03_hal/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/04_bsp/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/06_startup/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/09_config/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/CMakeLists.txt C$:/Users/Administrator/Desktop/STM32F103STD/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/3.31.11/CMakeASMCompiler.cmake CMakeFiles/3.31.11/CMakeCCompiler.cmake CMakeFiles/3.31.11/CMakeSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMCompiler.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeASMInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCCompiler.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCCompilerABI.c E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeCompilerIdDetection.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineASMCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineCompilerSupport.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeFindBinUtils.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeNinjaFindMake.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseImplicitIncludeInfo.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseImplicitLinkInfo.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeParseLibraryArchitecture.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystem.cmake.in E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestASMCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/CMakeTestCompilerCommon.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ADSP-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ARMCC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/ARMClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/AppleClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Borland-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Bruce-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompilerInternal.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Compaq-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Cray-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/CrayClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Embarcadero-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Fujitsu-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GHS-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-ASM.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU-FindBinUtils.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/GNU.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/HP-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IAR-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Intel-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/LCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/NVHPC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/NVIDIA-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/OrangeC-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/PGI-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/PathScale-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SCO-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SDCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/SunPro-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TI-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TIClang-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Tasking-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/Watcom-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/XL-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/XLClang-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Compiler/zOS-C-DetermineCompiler.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeASMLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeInspectASMLinker.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeInspectCLinker.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Internal/FeatureTesting.cmake E$:/VSto$ STM32/cmake-3.31.11-windows-x86_64/share/cmake-3.31/Modules/Platform/Generic.cmake: phony
 
 
 #############################################

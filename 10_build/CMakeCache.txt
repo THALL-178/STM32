@@ -49,8 +49,8 @@ CMAKE_BUILD_TYPE:STRING=Debug
 //No help, variable specified on the command line.
 CMAKE_CXX_COMPILER:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe
 
-//No help, variable specified on the command line.
-CMAKE_C_COMPILER:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe
+//C compiler
+CMAKE_C_COMPILER:STRING=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -208,8 +208,8 @@ CMAKE_STRIP:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-
 //Path to a program.
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
-//No help, variable specified on the command line.
-CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=arm-none-eabi-gcc.cmake
+//The CMake toolchain file
+CMAKE_TOOLCHAIN_FILE:FILEPATH=C:/Users/Administrator/Desktop/STM32F103STD/arm-none-eabi-gcc.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
