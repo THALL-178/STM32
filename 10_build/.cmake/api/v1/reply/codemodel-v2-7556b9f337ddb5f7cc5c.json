@@ -13,12 +13,13 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"projectIndex" : 0,
 					"source" : "."
@@ -28,14 +29,14 @@
 					"jsonFile" : "directory-02_libs-Debug-e3f17649175c29917de4.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "02_libs",
 					"targetIndexes" : 
 					[
-						4
+						5
 					]
 				},
 				{
@@ -43,14 +44,14 @@
 					"jsonFile" : "directory-06_startup-Debug-a9418d99da651a17e23b.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "06_startup",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -58,7 +59,7 @@
 					"jsonFile" : "directory-09_config-Debug-b516cf7ef17cec8d16cb.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
@@ -69,7 +70,7 @@
 					"jsonFile" : "directory-04_bsp-Debug-27d04948062149a683cb.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
@@ -84,18 +85,33 @@
 					"jsonFile" : "directory-03_hal-Debug-bc21dcccec10f5b62682.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "03_hal"
 				},
 				{
+					"build" : "05_drivers",
+					"jsonFile" : "directory-05_drivers-Debug-c115dbd5b70709fb798a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "05_drivers",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
 					"build" : "01_app",
 					"jsonFile" : "directory-01_app-Debug-187c2af3183518abc7a9.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.10"
+						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
@@ -103,7 +119,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						2
+						3
 					]
 				}
 			],
@@ -119,7 +135,8 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7
 					],
 					"name" : "STM32F103C8T6",
 					"targetIndexes" : 
@@ -128,44 +145,52 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
-					"directoryIndex" : 6,
+					"directoryIndex" : 7,
 					"id" : "STM32F103.elf::@b8f177ffcab6bb705bfd",
-					"jsonFile" : "target-STM32F103.elf-Debug-c5dc49ea62b473d6f1b7.json",
+					"jsonFile" : "target-STM32F103.elf-Debug-89433030e8ad5d7acb07.json",
 					"name" : "STM32F103.elf",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "bsp::@0bc28816a48040ce9ca4",
-					"jsonFile" : "target-bsp-Debug-f4b64edfabfd8657e8a2.json",
+					"jsonFile" : "target-bsp-Debug-8035513c83bb72eae5d8.json",
 					"name" : "bsp",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 6,
+					"id" : "drivers::@a31ad68635402677aa60",
+					"jsonFile" : "target-drivers-Debug-a5165de2abee99cb475c.json",
+					"name" : "drivers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
 					"id" : "flash::@b8f177ffcab6bb705bfd",
-					"jsonFile" : "target-flash-Debug-95f96c05695c36c15b6f.json",
+					"jsonFile" : "target-flash-Debug-2dc9cc730f19b9633b1b.json",
 					"name" : "flash",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "startup::@bea566ddfcb7e00a067c",
-					"jsonFile" : "target-startup-Debug-6703dafcbc78333539b8.json",
+					"jsonFile" : "target-startup-Debug-328cf688990761a7eeb5.json",
 					"name" : "startup",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "stdperiph::@77c7e2fc0b86508f258a",
-					"jsonFile" : "target-stdperiph-Debug-6a953fbe22ee79cfe213.json",
+					"jsonFile" : "target-stdperiph-Debug-7163dc6b73a19e0ac29a.json",
 					"name" : "stdperiph",
 					"projectIndex" : 0
 				}

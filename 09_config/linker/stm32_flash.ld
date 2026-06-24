@@ -3,7 +3,7 @@
 **
 **  File        : stm32_flash.ld
 **
-**  Abstract    : Linker script for STM32F107VC Device with
+**  Abstract    : Linker script for STM32F103c8t6 Device with
 **                256KByte FLASH, 64KByte RAM
 **
 **                Set heap size, stack size and stack location according
@@ -75,6 +75,15 @@ SECTIONS
     . = ALIGN(4);
     _etext = .;        /* define a global symbols at end of code */
   } >FLASH
+
+
+  .device_reg :
+   {
+        . = ALIGN(4);
+        __device_reg_start = .;
+        KEEP(*(.device_reg))
+        __device_reg_end = .;
+  } > FLASH
 
 
    .ARM.extab   : { *(.ARM.extab* .gnu.linkonce.armextab.*) } >FLASH

@@ -1,0 +1,167 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "05_drivers/libdrivers.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"05_drivers/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-m3 -mthumb -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "STM32F10X_MD"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "USE_STDPERIPH_DRIVER"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/05_drivers/inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/09_config"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "stdperiph::@77c7e2fc0b86508f258a"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "bsp::@0bc28816a48040ce9ca4"
+		}
+	],
+	"id" : "drivers::@a31ad68635402677aa60",
+	"name" : "drivers",
+	"nameOnDisk" : "libdrivers.a",
+	"paths" : 
+	{
+		"build" : "05_drivers",
+		"source" : "05_drivers"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "05_drivers/src/drv_led.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/board_init.c.obj",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/bsp_gpio.c.obj",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/led_gpio.c.obj",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

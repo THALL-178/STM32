@@ -28,8 +28,8 @@ CMAKE_ASM_COMPILER_AR:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w
 // for the GCC compiler
 CMAKE_ASM_COMPILER_RANLIB:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe
 
-//Flags used by the ASM compiler during all build types.
-CMAKE_ASM_FLAGS:STRING=
+//ASM flags
+CMAKE_ASM_FLAGS:STRING=-mcpu=cortex-m3 -mthumb
 
 //Flags used by the ASM compiler during DEBUG builds.
 CMAKE_ASM_FLAGS_DEBUG:STRING=-g
@@ -60,8 +60,8 @@ CMAKE_C_COMPILER_AR:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64
 // for the GCC compiler
 CMAKE_C_COMPILER_RANLIB:FILEPATH=E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe
 
-//Flags used by the C compiler during all build types.
-CMAKE_C_FLAGS:STRING=
+//C flags
+CMAKE_C_FLAGS:STRING=-mcpu=cortex-m3 -mthumb
 
 //Flags used by the C compiler during DEBUG builds.
 CMAKE_C_FLAGS_DEBUG:STRING=-g
@@ -226,9 +226,6 @@ STM32F103C8T6_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 STM32F103C8T6_SOURCE_DIR:STATIC=C:/Users/Administrator/Desktop/STM32F103STD
 
-//Dependencies for the target
-bsp_LIB_DEPENDS:STATIC=general;stdperiph;
-
 
 ########################
 # INTERNAL cache entries
@@ -331,7 +328,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

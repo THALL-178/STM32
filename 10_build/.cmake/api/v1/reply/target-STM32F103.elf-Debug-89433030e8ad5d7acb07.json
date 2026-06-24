@@ -13,13 +13,11 @@
 			"add_executable",
 			"target_link_options",
 			"target_link_libraries",
-			"target_compile_options",
-			"target_include_directories"
+			"target_compile_options"
 		],
 		"files" : 
 		[
 			"01_app/CMakeLists.txt",
-			"03_hal/CMakeLists.txt",
 			"04_bsp/CMakeLists.txt"
 		],
 		"nodes" : 
@@ -36,7 +34,13 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 8,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 3,
 				"parent" : 0
 			},
 			{
@@ -45,32 +49,11 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 8,
-				"parent" : 3
-			},
-			{
-				"file" : 2
-			},
-			{
-				"command" : 2,
-				"file" : 2,
 				"line" : 4,
-				"parent" : 5
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 5,
-				"parent" : 0
+				"parent" : 4
 			},
 			{
 				"command" : 3,
-				"file" : 0,
-				"line" : 7,
-				"parent" : 0
-			},
-			{
-				"command" : 4,
 				"file" : 0,
 				"line" : 2,
 				"parent" : 0
@@ -83,53 +66,53 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-mcpu=cortex-m3 -mthumb -g"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 6,
 					"fragment" : "-mcpu=cortex-m3"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 6,
 					"fragment" : "-mthumb"
 				}
 			],
 			"defines" : 
 			[
 				{
-					"backtrace" : 7,
-					"define" : "HSE_VALUE=8000000"
-				},
-				{
-					"backtrace" : 7,
+					"backtrace" : 3,
 					"define" : "STM32F10X_MD"
 				},
 				{
-					"backtrace" : 7,
+					"backtrace" : 3,
 					"define" : "USE_STDPERIPH_DRIVER"
 				}
 			],
 			"includes" : 
 			[
 				{
-					"backtrace" : 9,
-					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/09_config"
-				},
-				{
-					"backtrace" : 7,
-					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc"
-				},
-				{
-					"backtrace" : 7,
+					"backtrace" : 3,
 					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc"
 				},
 				{
-					"backtrace" : 7,
+					"backtrace" : 3,
 					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc"
 				},
 				{
-					"backtrace" : 7,
+					"backtrace" : 3,
 					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/09_config"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Administrator/Desktop/STM32F103STD/05_drivers/inc"
 				}
 			],
 			"language" : "C",
@@ -142,16 +125,20 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 7,
+			"backtrace" : 3,
 			"id" : "stdperiph::@77c7e2fc0b86508f258a"
 		},
 		{
-			"backtrace" : 7,
-			"id" : "bsp::@0bc28816a48040ce9ca4"
+			"backtrace" : 3,
+			"id" : "startup::@bea566ddfcb7e00a067c"
 		},
 		{
-			"backtrace" : 7,
-			"id" : "startup::@bea566ddfcb7e00a067c"
+			"backtrace" : 3,
+			"id" : "drivers::@a31ad68635402677aa60"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "bsp::@0bc28816a48040ce9ca4"
 		}
 	],
 	"id" : "STM32F103.elf::@b8f177ffcab6bb705bfd",
@@ -160,7 +147,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-mcpu=cortex-m3 -mthumb -g",
 				"role" : "flags"
 			},
 			{
@@ -198,12 +185,12 @@
 				"role" : "flags"
 			},
 			{
-				"backtrace" : 4,
-				"fragment" : "04_bsp\\libbsp.a",
+				"backtrace" : 3,
+				"fragment" : "05_drivers\\libdrivers.a",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 6,
+				"backtrace" : 5,
 				"fragment" : "02_libs\\libstdperiph.a",
 				"role" : "libraries"
 			}
@@ -230,7 +217,10 @@
 			"name" : "Object Libraries",
 			"sourceIndexes" : 
 			[
-				1
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -243,7 +233,25 @@
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 7,
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/board_init.c.obj",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/bsp_gpio.c.obj",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "10_build/04_bsp/CMakeFiles/bsp.dir/src/led_gpio.c.obj",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
 			"isGenerated" : true,
 			"path" : "10_build/06_startup/CMakeFiles/startup.dir/startup_stm32f10x_md.s.obj",
 			"sourceGroupIndex" : 1

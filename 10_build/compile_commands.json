@@ -1,163 +1,181 @@
 [
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\misc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\misc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\misc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\misc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\misc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\misc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_adc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_bkp.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_can.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_cec.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_crc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dac.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dbgmcu.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_dma.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_exti.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_flash.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_fsmc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_gpio.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_i2c.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_iwdg.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_pwr.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rcc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_rtc.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_sdio.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_spi.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_tim.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_usart.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\STM32F10x_StdPeriph_Driver\\src\\stm32f10x_wwdg.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\CMSIS\\system_stm32f10x.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\CMSIS\\system_stm32f10x.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 02_libs\\CMakeFiles\\stdperiph.dir\\CMSIS\\system_stm32f10x.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\CMSIS\\system_stm32f10x.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\02_libs\\CMSIS\\system_stm32f10x.c",
   "output": "02_libs\\CMakeFiles\\stdperiph.dir\\CMSIS\\system_stm32f10x.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -g -mcpu=cortex-m3 -mthumb -o 06_startup\\CMakeFiles\\startup.dir\\startup_stm32f10x_md.s.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\06_startup\\startup_stm32f10x_md.s",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -mcpu=cortex-m3 -mthumb -g -o 06_startup\\CMakeFiles\\startup.dir\\startup_stm32f10x_md.s.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\06_startup\\startup_stm32f10x_md.s",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\06_startup\\startup_stm32f10x_md.s",
   "output": "06_startup\\CMakeFiles\\startup.dir\\startup_stm32f10x_md.s.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DHSE_VALUE=8000000 -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -g -mcpu=cortex-m3 -mthumb -o 04_bsp\\CMakeFiles\\bsp.dir\\src\\bsp_led.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\bsp_led.c",
-  "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\bsp_led.c",
-  "output": "04_bsp\\CMakeFiles\\bsp.dir\\src\\bsp_led.c.obj"
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -mcpu=cortex-m3 -mthumb -g -o 04_bsp\\CMakeFiles\\bsp.dir\\src\\board_init.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\board_init.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\board_init.c",
+  "output": "04_bsp\\CMakeFiles\\bsp.dir\\src\\board_init.c.obj"
 },
 {
   "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
-  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DHSE_VALUE=8000000 -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -g -mcpu=cortex-m3 -mthumb -o 01_app\\CMakeFiles\\STM32F103.elf.dir\\main.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\01_app\\main.c",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -mcpu=cortex-m3 -mthumb -g -o 04_bsp\\CMakeFiles\\bsp.dir\\src\\bsp_gpio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\bsp_gpio.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\bsp_gpio.c",
+  "output": "04_bsp\\CMakeFiles\\bsp.dir\\src\\bsp_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -mcpu=cortex-m3 -mthumb -g -o 04_bsp\\CMakeFiles\\bsp.dir\\src\\led_gpio.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\led_gpio.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\04_bsp\\src\\led_gpio.c",
+  "output": "04_bsp\\CMakeFiles\\bsp.dir\\src\\led_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/05_drivers/inc -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -mcpu=cortex-m3 -mthumb -g -o 05_drivers\\CMakeFiles\\drivers.dir\\src\\drv_led.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\05_drivers\\src\\drv_led.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\05_drivers\\src\\drv_led.c",
+  "output": "05_drivers\\CMakeFiles\\drivers.dir\\src\\drv_led.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/STM32F103STD/10_build",
+  "command": "E:\\VSTOST~1\\ARM-GN~1.REL\\bin\\AR19DD~1.EXE -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -IC:/Users/Administrator/Desktop/STM32F103STD/04_bsp/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/STM32F10x_StdPeriph_Driver/inc -IC:/Users/Administrator/Desktop/STM32F103STD/02_libs/CMSIS -IC:/Users/Administrator/Desktop/STM32F103STD/09_config -IC:/Users/Administrator/Desktop/STM32F103STD/03_hal/inc -IC:/Users/Administrator/Desktop/STM32F103STD/05_drivers/inc -mcpu=cortex-m3 -mthumb -g -mcpu=cortex-m3 -mthumb -o 01_app\\CMakeFiles\\STM32F103.elf.dir\\main.c.obj -c C:\\Users\\Administrator\\Desktop\\STM32F103STD\\01_app\\main.c",
   "file": "C:\\Users\\Administrator\\Desktop\\STM32F103STD\\01_app\\main.c",
   "output": "01_app\\CMakeFiles\\STM32F103.elf.dir\\main.c.obj"
 }

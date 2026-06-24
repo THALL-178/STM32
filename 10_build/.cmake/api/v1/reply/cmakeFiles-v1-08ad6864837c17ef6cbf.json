@@ -752,6 +752,9 @@
 			"path" : "03_hal/CMakeLists.txt"
 		},
 		{
+			"path" : "05_drivers/CMakeLists.txt"
+		},
+		{
 			"path" : "01_app/CMakeLists.txt"
 		}
 	],

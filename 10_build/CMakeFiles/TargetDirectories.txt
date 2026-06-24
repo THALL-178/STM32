@@ -13,6 +13,9 @@ C:/Users/Administrator/Desktop/STM32F103STD/10_build/04_bsp/CMakeFiles/edit_cach
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/04_bsp/CMakeFiles/rebuild_cache.dir
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/03_hal/CMakeFiles/edit_cache.dir
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/03_hal/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/STM32F103STD/10_build/05_drivers/CMakeFiles/drivers.dir
+C:/Users/Administrator/Desktop/STM32F103STD/10_build/05_drivers/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/STM32F103STD/10_build/05_drivers/CMakeFiles/rebuild_cache.dir
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/CMakeFiles/STM32F103.elf.dir
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/CMakeFiles/flash.dir
 C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/CMakeFiles/edit_cache.dir

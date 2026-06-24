@@ -6,13 +6,13 @@
             "type": "cortex-debug",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "executable": "build/firmware.elf",
+            "executable": "10_build/01_app/STM32F103.elf",
             "servertype": "openocd",
             "configFiles": [
                 "interface/stlink.cfg",
                 "target/stm32f1x.cfg"
             ],
-            "svdFile": "02_libs/CMSIS/STM32F103.svd"   // ← 新增这一行
+            "svdFile": "02_libs/CMSIS/STM32F103.svd"
         }
     ]
 }

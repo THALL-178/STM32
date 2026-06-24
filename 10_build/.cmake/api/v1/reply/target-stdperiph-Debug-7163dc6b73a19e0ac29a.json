@@ -57,7 +57,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-mcpu=cortex-m3 -mthumb -g"
 				},
 				{
 					"backtrace" : 2,

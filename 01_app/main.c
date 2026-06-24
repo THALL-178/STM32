@@ -1,9 +1,12 @@
-#include "stm32f10x.h"
-#include "bsp_led.h"
-int main(void)
-{
-    LED_Init();
-    LED_On();
+#include "board_device.h"
+#include "drv_led.h"
+#include "board_init.h"
+
+int main(void) {
+    board_init();
+
+
+    drv_alarm_led_on();   // 点亮报警灯
+
     while (1);
-    //本地第一次测试
 }

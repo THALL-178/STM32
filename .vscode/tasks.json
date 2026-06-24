@@ -35,6 +35,18 @@
             ],
             "group": "build",
             "problemMatcher": []
-        }
+        },
+        {
+    "label": "Erase Chip",
+    "type": "shell",
+    "command": "openocd",
+    "args": [
+        "-f", "interface/stlink.cfg",
+        "-f", "target/stm32f1x.cfg",
+        "-c", "init; halt; stm32f1x mass_erase 0; exit"
+    ],
+    "group": "build",
+    "problemMatcher": []
+}
     ]
 }

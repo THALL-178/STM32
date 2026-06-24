@@ -38,14 +38,38 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
+  # Include the install script for the subdirectory.
   include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/02_libs/cmake_install.cmake")
-  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/06_startup/cmake_install.cmake")
-  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/09_config/cmake_install.cmake")
-  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/04_bsp/cmake_install.cmake")
-  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/03_hal/cmake_install.cmake")
-  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/cmake_install.cmake")
+endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/06_startup/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/09_config/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/04_bsp/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/03_hal/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/05_drivers/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Administrator/Desktop/STM32F103STD/10_build/01_app/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT

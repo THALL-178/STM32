@@ -34,22 +34,6 @@
 			"value" : "E:/VSto STM32/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ar.exe"
 		},
 		{
-			"name" : "CMAKE_ASM_COMPILER",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
-		},
-		{
 			"name" : "CMAKE_ASM_COMPILER_AR",
 			"properties" : 
 			[
@@ -103,11 +87,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the ASM compiler during all build types."
+					"value" : "ASM flags"
 				}
 			],
 			"type" : "STRING",
-			"value" : ""
+			"value" : "-mcpu=cortex-m3 -mthumb"
 		},
 		{
 			"name" : "CMAKE_ASM_FLAGS_DEBUG",
@@ -339,11 +323,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the C compiler during all build types."
+					"value" : "C flags"
 				}
 			],
 			"type" : "STRING",
-			"value" : ""
+			"value" : "-mcpu=cortex-m3 -mthumb"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS_DEBUG",
@@ -791,7 +775,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "7"
+			"value" : "8"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1204,18 +1188,6 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Users/Administrator/Desktop/STM32F103STD"
-		},
-		{
-			"name" : "bsp_LIB_DEPENDS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Dependencies for the target"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "general;stdperiph;"
 		}
 	],
 	"kind" : "cache",
